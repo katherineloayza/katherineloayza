@@ -1,16 +1,15 @@
-### Hi there 👋
+<div id="inicio" align="center">
+    <h1 align="center">Hi 👋, I'm Katherine</h1>
+    <h3 align="center">An passionate web Frontend Developer from Lima Perú 
+        1+ experience working in technology I invite you to check my linkedIn account: https://www.linkedin.com/in/katherinejazminloayza/ 
+    </h3>
+</div>
+<hr>
+<h4>About Me : 💻</h4>
+-🌱I'm currently learning about react, responsive design, <br>
+-📘 I'm studying development of information systems <br>
+<br>
+<h4>Languages and Tools💻</h4>
 
-<!--
-**katherineloayza/katherineloayza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
