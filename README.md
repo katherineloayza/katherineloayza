@@ -10,7 +10,7 @@
         </a>
         <a href="https://stackoverflow.com/users/21183319/katherine-loayza"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
         </a>
-      <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+      </a>
         </a>
     </div>
     
