@@ -1,16 +1,17 @@
 <hr>
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1kpDwmheiAPIBYsEIvJO35ThaF8nfZwj_" alt="Mi imagen" width="200" />
+  <img src="https://drive.google.com/uc?id=1kpDwmheiAPIBYsEIvJO35ThaF8nfZwj_" alt="Mi imagen" width="155" />
 </p>
     <div align=center>
       <img src="https://readme-typing-svg.herokuapp.com?color=%23FF69B4&size=32&center=true&vCenter=true&width=600&height=50&lines=Hola+soy+Katherine+Loayza+%F0%9F%91%8B;Desarrollador+Java+Spring+Boot+%F0%9F%92%BB" alt="Headline" />
     </div>
     <div align=center>
-        <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        <a href="https://www.upwork.com/freelancers/~0121ca7f3563e57c0b"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
-        <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-        <a href="https://www.quora.com/profile/Ahmed-Fathy-616"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora" alt="Quora" /></a>
-        <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+        <a href="https://www.linkedin.com/in/katherinloayza/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        </a>
+        <a href="https://stackoverflow.com/users/21183319/katherine-loayza"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+        </a>
+      <a href="https://t.me/ahmedfathydev"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+        </a>
     </div>
     
   <div align=left>
@@ -55,7 +56,7 @@
   </a>
   </a>
   </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://developer.mozilla.org/es/docs/Web/CSS=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
   </a>
   </a>
@@ -63,11 +64,11 @@
 
 
 <h2> Conecta Conmigo: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/katherinloayza/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
  </a> 
  </a> 
  </a> 
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://github.com/katherineloayza'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 <br>
 <br>
